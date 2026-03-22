@@ -16,9 +16,14 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Business Analyst (BA): gathers and refines requirements, bridges business and technical teams.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- UX Designer: defines user experience, creates wireframes and prototypes, validates usability.
+- QA Lead: defines test strategy, coordinates testing, signs off on releases.
+- Release Manager: plans and executes deployments, manages release communication.
 - Stakeholders: provide inputs and approvals.
+
+> See `octoacme-roles-and-personas.md` for full role definitions and `octoacme-role-handoff-checklist.md` for engagement guidance across project phases.
 
 ## Key Artifacts
 - Project Charter / One-pager
